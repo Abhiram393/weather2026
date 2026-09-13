@@ -1,0 +1,9 @@
+{
+  "name": "My Schedule Weather PWA",
+  "short_name": "My Schedule",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f6fa",
+  "theme_color": "#2196f3",
+  "description": "CIS 503 Weather PWA"
+}
